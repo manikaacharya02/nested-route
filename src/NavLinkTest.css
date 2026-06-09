@@ -1,0 +1,17 @@
+nav a{
+    color:black;
+    margin-right:12px;
+}
+nav a.active{
+    color:blue;
+    font-weight: bold;
+}
+.product-list{
+    display:flex;
+    
+    justify-content: center;
+    
+}
+.product-item{
+    padding:10px;
+}
